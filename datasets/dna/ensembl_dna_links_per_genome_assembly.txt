@@ -1,0 +1,17 @@
+To be downloaded: human chromosomes 1-22, X, Y.
+
+NCBI34 (release22 - release 25 incl.)
+ftp://ftp.ensembl.org/pub/release-25/human-25.34e/data/fasta/dna/Homo_sapiens.NCBI34.sep.dna.chromosome.*.fa.gz
+
+NCBI35 (release 26 - release 37 incl.)
+ftp://ftp.ensembl.org/pub/release-37/homo_sapiens_37_35j/data/fasta/dna/Homo_sapiens.NCBI35.feb.dna.chromosome.*.fa.gz
+
+NCBI36 (release 38 - release 54 incl.)
+ftp://ftp.ensembl.org/pub/release-54/fasta/homo_sapiens/dna/Homo_sapiens.NCBI36.54.dna.chromosome.*.fa.gz
+
+GRCh37 (release 55 - release 75 incl.)
+ftp://ftp.ensembl.org/pub/release-75/fasta/homo_sapiens/dna/Homo_sapiens.GRCh37.75.dna.chromosome.*.fa.gz
+
+GRCh38 (release 76 - release 83 incl.)
+ftp://ftp.ensembl.org/pub/release-83/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.chromosome.*.fa.gz
+
